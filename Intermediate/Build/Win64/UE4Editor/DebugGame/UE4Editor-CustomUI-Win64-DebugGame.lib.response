@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CustomUI-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"F:\UE4Project\Example_Plugin\Plugins\CustomUI\Intermediate\Build\Win64\UE4Editor\DebugGame\CustomUI\Module.CustomUI.cpp.obj"
+"F:\UE4Project\Example_Plugin\Plugins\CustomUI\Intermediate\Build\Win64\UE4Editor\DebugGame\CustomUI\Module.CustomUI.gen.cpp.obj"
+"D:\UnrealEngine\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\CustomUI\PCLaunch.rc.res"
+"D:\UnrealEngine\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4Project\Example_Plugin\Plugins\CustomUI\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-CustomUI-Win64-DebugGame.lib"

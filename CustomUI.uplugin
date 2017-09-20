@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CustomUI",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "GuoYu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CustomUI",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
